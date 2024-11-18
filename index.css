@@ -1,6 +1,6 @@
 body{
     margin: 0 auto;
-    width: 80%;
+    width: 70%;
     background-size: auto;
     background-attachment: fixed;
     font-family: 'Segoe UI', Tahoma, sans-serif;
@@ -38,7 +38,7 @@ color: #f1f1f1;
 
 .container{
     max-width: 500px;
-    min-width: 550px;
+    min-width: 70%;
     margin: 0 auto;}
 #content {
     overflow: auto;
@@ -150,6 +150,13 @@ border-radius: 3px;
 .column3 {
     background-color: #efefef;
     max-width: 150px;
+    float: left;
+    margin: 5px;
+    padding: 10px;
+}
+column4 {
+    background-color: #efefef;
+    width: 150px;
     float: left;
     margin: 5px;
     padding: 10px;
