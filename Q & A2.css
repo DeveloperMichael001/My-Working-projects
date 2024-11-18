@@ -27,7 +27,7 @@
     overflow: hidden;
     border-radius: 2px;
   } .accordion:after {
-    content: 'see more'; /* Unicode character for "plus" sign (+) */
+    content: 'see more';
     font-size: 10px;
     color: #777;
     float: right;
@@ -35,5 +35,5 @@
   }
   
   .active:after {
-    content: 'see less'; /* Unicode character for "minus" sign (-) */
+    content: 'see less';
   }
