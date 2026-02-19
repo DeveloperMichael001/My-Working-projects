@@ -1,0 +1,32 @@
+$ git push origin main
+Username for 'https://github.com': DeveloperMichael001
+Password for 'https://DeveloperMichael001@github.com': 
+remote: Permission to DeveloperMichael001/My-Working-projects.git denied to DeveloperMichael001.
+fatal: unable to access 'https://github.com/DeveloperMichael001/My-Working-projects.git/': The requested URL returned error: 403
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$ git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 3 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 323 bytes | 323.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:DeveloperMichael001/My-Working-projects.git
+   6cb5bbf..184c690  main -> main
+
