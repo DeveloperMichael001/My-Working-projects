@@ -2,17 +2,8 @@ $ git push origin main
 Username for 'https://github.com': DeveloperMichael001
 Password for 'https://DeveloperMichael001@github.com': 
 remote: Permission to DeveloperMichael001/My-Working-projects.git denied to DeveloperMichael001.
-fatal: unable to access 'https://github.com/DeveloperMichael001/My-Working-projects.git/': The requested URL returned error: 403
-
-
-
-
-
-
-
-
-
-
+fatal: unable to access 'https://github.com/DeveloperMichael001/My-Working-projects.git/': 
+The requested URL returned error: 403
 
 
 
